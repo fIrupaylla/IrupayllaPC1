@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IrupayllaPC1</string>
+    <string name="valetemail">Ingrese Email</string>
+    <string name="valetpassword">Ingrese Password</string>
+    <string name="valbtlogin">LOG IN</string>
+    <string name="tvLista">Lista de Jugadores</string>
+</resources>
